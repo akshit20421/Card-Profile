@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <div className='bg'>
-     <div className="mainImg"><img src="src\illustration-article.svg" alt="" />
+     <div className="mainImg"><img src="/illustration-article.svg" alt="" />
      </div>
      
      <div className="textMain">
@@ -18,7 +18,7 @@ function App() {
      <div className="paraMain"><p className='paraCol'>These languages are the backbone of every website, defining structure, content, and presentation.</p>
      </div>
      <div className="nameMain">
-      <img src="src\image-avatar.webp" alt="" />
+      <img src="/image-avatar.webp" alt="" />
       <p>Greg Hooper</p>
      </div>
       </div>
